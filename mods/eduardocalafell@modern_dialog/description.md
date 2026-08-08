@@ -9,8 +9,10 @@ the game's own text and typewriter exactly as they are.
 ## What it changes
 
 - A rounded panel with a soft drop shadow replaces the Game Boy tile border on
-  every framed box — dialogue, the START menu, shops, YES/NO, and so on. The
-  interior stays light so the black GB-font text is always readable.
+  the framed boxes across the game — dialogue, the START menu, shops, YES/NO,
+  the party, summary, PC box, Town Map, Pokedex, Options, Trainer Card and more.
+  Pokemon sprite frames are left untouched, and the interior stays light so the
+  black GB-font text is always readable.
 - **7 themes:** SLATE, FOREST, OCEAN, SUNSET, BERRY, MONO, and **NIGHT** — a
   true dark theme (the black GB font is recoloured light through a shader so it
   reads on the dark panel).
